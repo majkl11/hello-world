@@ -1,2 +1,2 @@
 # hello-world
-zaciname
+print('hello world')
